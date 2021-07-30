@@ -1,0 +1,26 @@
+body {
+  background: var(--grey);
+  font-size: 35px;
+}
+
+body * {
+  color: white;
+}
+
+.container {
+  max-width: 1440px;
+  margin: auto;
+}
+
+.button {
+  width: 10rem;
+  min-height: 4rem;
+  background: var(--red);
+  border: none;
+  border-radius: 0.5rem;
+  font-size: 1.5rem;
+}
+
+.bold {
+  font-weight: bold !important;
+}

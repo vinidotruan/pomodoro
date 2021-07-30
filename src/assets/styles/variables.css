@@ -1,0 +1,7 @@
+:root {
+  --grey: #454545;
+  --red: #f04444;
+  --green: #67b940;
+  --purple: #843cbd;
+  --bg-color: var(--grey);
+}
